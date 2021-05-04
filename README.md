@@ -1,7 +1,7 @@
 # IBM_POC (Near By Cars)
 
 <p align="center">
-<img src="https://i.imgur.com/UqzFXjd.png" alt="Near By Cars" title="IBM POC" width="557"/>
+<img src="https://i.imgur.com/UqzFXjd.png" alt="Near By Cars" title="IBM POC" width="557" height="100"/>
 </p>
 
 
